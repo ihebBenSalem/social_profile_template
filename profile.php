@@ -2,7 +2,7 @@
 ***********************************************************
 * This template was created from scratch by iheb ben salem
 *Contact:ihebbensalem.isetcom@gmail.com
-*under the TDC project 21/07/2015
+*copy right@under the TDC project 21/07/2015
 **********************************************************
 !-->
 <?php
