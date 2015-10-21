@@ -1,0 +1,181 @@
+#profile
+{
+position: relative;
+top: -435px;
+left: 25px;
+}
+
+
+
+#btn_post
+{
+position: relative;
+top: 2px;
+
+}
+
+
+#post
+{
+position: relative;
+left: 12px;
+top: 12px;
+font-size: 24px;
+font: oblique;
+}
+
+
+#bro
+{
+
+background-color: #fff;
+position: relative;
+left: -14px;
+margin-right: -37px;
+margin-left: -30px;
+}
+
+
+
+#go
+{
+	position:relative;
+	left: -77px;
+	opacity:1;
+}
+
+#number2
+{
+font-size: 15px;
+position: relative;
+top: -82px;
+background-color: #fff;
+left: -30px;
+padding-left: 21px;
+padding-right: 30px;
+color:#00c0ef;
+padding-bottom: 10px;
+font: bold;
+}
+
+
+#number4
+{
+font-size: 15px;
+position: relative;
+background-color: #fff;
+left: -30px;
+padding-left: 21px;
+padding-right: 30px;
+color:#00c0ef;
+padding-bottom: 10px;
+font: bold;
+top: 2px;
+}
+
+
+#number
+{
+font-size: 35px;
+position: relative;
+top: -82px;
+background-color: #fff;
+padding-left: 30px;
+padding-right: 48px;
+}
+
+#number3
+{
+font-size: 35px;
+position: relative;
+}
+
+
+
+#info
+{
+position: relative;
+top: -120px;
+left: -280px;
+margin-right: 50px;
+}
+
+
+
+
+
+#position
+{
+color:#00c0ef;
+font: bold;
+font-size: 15px;
+}
+
+
+
+#name
+{
+position: relative;
+margin-bottom: 10px;
+top: 5px;
+font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+body
+{
+  background-color: #ecf0f5;
+}
+
+#myimage
+{
+
+height: 90px;
+width: 90px;
+}
+#pos
+{
+position:relative;
+top: -6px;
+left:2px;
+right: 2px;
+}
+#p1
+{
+position:relative;
+left:2px;
+right: 2px;
+top: 2px;
+bottom: 4px;
+}
+
+.navip
+{
+  background-color:#3c8dbc;
+
+}
+
+#txt{
+    color: #fff;
+    position: relative;
+    top: 13px;
+right: 200;
+
+}
+
+#bro2
+{
+	background-color: #fff;
+	margin-left: 70px;
+	margin-right:80px; 
+
+}
