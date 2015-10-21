@@ -130,7 +130,7 @@ return mysql_query(" select * from feed order by id desc limit 3 ;");
 
 <div class="box box-solid" >
   <div  class="box-title">
-<h4 id="post">Feed</h4>
+<h4 id="post">Feeds</h4>
   </div>
 <div class="box-body">
   <form method="POST">
