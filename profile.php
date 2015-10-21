@@ -6,8 +6,8 @@
 **********************************************************
 !-->
 <?php
-mysql_connect("127.0.0.1","root","root");
-mysql_select_db("test");
+mysql_connect("hostadd","username","pass");
+mysql_select_db("db_name");
 $ch=show();
 $count=mysql_num_rows(mysql_query("select * from feed"));
 
